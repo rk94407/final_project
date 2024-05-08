@@ -1,12 +1,12 @@
 # User Management System - IS601 Final Project
 
 ## Introduction
-Developed under the guidance of Professor William Keith, the User Management System showcases the capabilities of modern web technologies as a part of the IS601 course. This open-source project utilizes the 12-Factor App methodology and Agile Manifesto principles to provide a hands-on learning experience in software development, preparing students to build scalable, maintainable, and production-ready applications.
+Under the guidance of Professor William Keith, the User Management System for the IS601 course demonstrates modern web technologies through practical use. This open-source project employs the 12-Factor App methodology and Agile principles, preparing students to develop scalable and maintainable applications.
 
 ### Key Methodologies
-- **12-Factor App Methodology**: Teaches important software engineering concepts such as codebase management, dependency control, and environmental consistency.
-- **Agile Practices**: Encourages an environment of teamwork, iterative development, and continuous customer collaboration.
-- **Industry Standards**: Focuses on coding standards like PEP 8 and introduces critical practices such as error handling and dependency injection.
+- **12-Factor App Methodology**: Covers key concepts like codebase management, dependency control, and consistent environments.
+- **Agile Practices**: Promotes teamwork, iterative development, and ongoing customer interaction.
+- **Industry Standards**: Emphasizes coding standards such as PEP 8 and essential practices like error handling and dependency injection.
 
 ## Features and Issues Addressed
 - **Profile Picture Upload with Minio**: Enhances user profile management by allowing users to securely upload and store profile pictures using Minio. [More about this feature]
@@ -40,4 +40,4 @@ Included test cases cover a variety of functionality and validation scenarios:
 - **Alembic**: For database migrations and versioning.
 
 ## Conclusion
-This project served as a bridge between theoretical knowledge and practical application, providing a deep dive into software development. I have gained valuable skills in technologies and best practices that are crucial in the software industry, equipping me for challenges in fields like software engineering, cybersecurity, and DevOps.
+This project bridged theory and practice in software development, enhancing my skills in crucial technologies and best practices. It has prepared me for roles in software engineering, cybersecurity, and DevOps.
