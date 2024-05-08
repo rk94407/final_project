@@ -11,7 +11,7 @@ Developed under the guidance of Professor William Keith, the User Management Sys
 ## Features and Issues Addressed
 - **Profile Picture Upload with Minio**: Enhances user profile management by allowing users to securely upload and store profile pictures using Minio. [More about this feature](https://github.com/NidhishVyas/user_management/pull/6)
 - **Issues solved**:
-  - Code Update: Automatic Verification Email on User Registration [Issue Link](https://github.com/NidhishVyas/user_management/pull/1)
+  - Code Update: Automatic Verification Email on User Registration [Issue Link](https://github.com/rk94407/final_project/tree/1-send-verification-email)
   - Update to User Response Model: Status Code 400 for Duplicate Nickname Registration [Issue Link](https://github.com/NidhishVyas/user_management/pull/2)
   - Ensuring Non-Negative Skip and Positive Limit Parameters [Issue Link](https://github.com/NidhishVyas/user_management/pull/3)
   - Implementation of Password Validation [Issue Link](https://github.com/NidhishVyas/user_management/pull/4)
