@@ -24,12 +24,6 @@ Included test cases cover a variety of functionality and validation scenarios:
 - `test_user_base_nickname_valid`
 - and more...
 
-## Deployment and Repository Links
-- [GitHub Commits](https://github.com/rk94407/final_project/commits/main/)
-- [GitHub Deployments](https://github.com/rk94407/final_project/deployments)
-- [GitHub Actions](https://github.com/rk94407/final_project/actions)
-- [Docker Hub](https://hub.docker.com/repository/docker/rohankatkam1698/final_project/general)
-
 ## Technologies Integrated
 - **FastAPI**: For high-performance API development.
 - **SQLAlchemy**: For database management.
@@ -38,6 +32,14 @@ Included test cases cover a variety of functionality and validation scenarios:
 - **OAuth2**: For secure user authentication.
 - **Docker**: For containerization and consistent environments.
 - **Alembic**: For database migrations and versioning.
+
+
+## Deployment and Repository Links
+- [GitHub Commits](https://github.com/rk94407/final_project/commits/main/)
+- [GitHub Deployments](https://github.com/rk94407/final_project/deployments)
+- [GitHub Actions](https://github.com/rk94407/final_project/actions)
+- [Docker Hub](https://hub.docker.com/repository/docker/rohankatkam1698/final_project/general)
+
 
 ## Conclusion
 This project bridged theory and practice in software development, enhancing my skills in crucial technologies and best practices. It has prepared me for roles in software engineering, cybersecurity, and DevOps.
