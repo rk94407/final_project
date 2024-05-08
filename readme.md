@@ -25,7 +25,7 @@ Included test cases cover a variety of functionality and validation scenarios:
 - and more...
 
 ## Deployment and Repository Links
-- [GitHub Commits](https://github.com/NidhishVyas/user_management/commits/main/)
+- [GitHub Commits](https://github.com/rk94407/final_project/commits/main/)
 - [GitHub Deployments](https://github.com/NidhishVyas/user_management/deployments)
 - [GitHub Actions](https://github.com/NidhishVyas/user_management/actions)
 - [Docker Hub](https://hub.docker.com/repository/docker/nidhish1312/user_management/general)
